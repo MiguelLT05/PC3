@@ -1,0 +1,20 @@
+.entrenador {
+    margin-bottom: 20px;
+}
+
+.pokemon {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.pokemon img {
+    width: 100px;
+    height: 100px;
+}
+
+.pokemon p {
+    margin: 5px 0;
+}
+

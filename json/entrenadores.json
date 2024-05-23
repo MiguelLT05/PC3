@@ -1,0 +1,126 @@
+[
+  {
+      "id": 1,
+      "entrenador": "Misty",
+      "pokemons": [
+          {
+              "nombre": "Starmie",
+              "tipo": "Agua",
+              "foto": "img/starmie.png"
+          },
+          {
+              "nombre": "Psyduck",
+              "tipo": "Agua",
+              "foto": "img/psyduck.jpg"
+          },
+          {
+              "nombre": "Gyarados",
+              "tipo": "Agua",
+              "foto": "img/gyarados.jpg"
+          },
+          {
+              "nombre": "Tentacruel",
+              "tipo": "Agua",
+              "foto": "img/tentacruel.jpg"
+          },
+          {
+              "nombre": "Lapras",
+              "tipo": "Agua",
+              "foto": "img/lapras.jpg"
+          }
+      ]
+  },
+  {
+      "id": 2,
+      "entrenador": "Brock",
+      "pokemons": [
+          {
+              "nombre": "Onix",
+              "tipo": "Tierra",
+              "foto": "img/onix.jpg"
+          },
+          {
+              "nombre": "Geodude",
+              "tipo": "Roca",
+              "foto": "img/geodude.jpg"
+          },
+          {
+              "nombre": "Kabutops",
+              "tipo": "Roca",
+              "foto": "img/kabutops.jpg"
+          },
+          {
+              "nombre": "Omastar",
+              "tipo": "Roca",
+              "foto": "img/omastar.jpg"
+          },
+          {
+              "nombre": "Steelix",
+              "tipo": "Acero",
+              "foto": "img/steelix.jpg"
+          }
+      ]
+  },
+  {
+      "id": 3,
+      "entrenador": "May",
+      "pokemons": [
+          {
+              "nombre": "Blaziken",
+              "tipo": "Fuego",
+              "foto": "img/blaziken.jpg"
+          },
+          {
+              "nombre": "Skitty",
+              "tipo": "Normal",
+              "foto": "img/skitty.jpg"
+          },
+          {
+              "nombre": "Beautifly",
+              "tipo": "Bicho",
+              "foto": "img/beautifly.jpg"
+          },
+          {
+              "nombre": "Mudkip",
+              "tipo": "Agua",
+              "foto": "img/mudkip.jpg"
+          },
+          {
+              "nombre": "Torchic",
+              "tipo": "Fuego",
+              "foto": "img/torchic.jpg"
+          }
+      ]
+  },
+  {
+      "id": 4,
+      "entrenador": "James",
+      "pokemons": [
+          {
+              "nombre": "Victreebel",
+              "tipo": "Planta",
+              "foto": "img/victreebel.jpg"
+          },
+          {
+              "nombre": "Koffing",
+              "tipo": "Veneno",
+              "foto": "img/koffing.jpg"
+          },
+          {
+              "nombre": "Weezing",
+              "tipo": "Veneno",
+              "foto": "img/weezing.jpg"
+          },
+          {
+              "nombre": "Cacnea",
+              "tipo": "Planta",
+              "foto": "img/cacnea.jpg"
+          },
+          {
+              "nombre": "Mareanie",
+              "tipo": "Agua",
+              "foto": "img/mareanie.jpg"
+          }
+      ]
+  }
+]
